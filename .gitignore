@@ -1,0 +1,26 @@
+# Archivo .env que podría contener información sensible como la cadena de conexión a la base de datos
+.env
+
+# Directorio de los módulos de Node.js
+node_modules
+
+# Archivos de logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Directorio de la cache de Node.js
+.npm
+
+# Directorios y archivos generados durante la compilación
+dist
+build
+
+# Archivos de configuración de editores de código y entornos de desarrollo
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
